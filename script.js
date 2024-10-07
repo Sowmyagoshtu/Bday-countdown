@@ -1,5 +1,5 @@
 // Set the date we're counting down to
-const birthday = new Date("2024-09-12T00:00:00"); // Replace with your birthday
+const birthday = new Date("2025-01-01T00:00:00"); // Replace with your birthday
 
 function updateCountdown() {
     const now = new Date().getTime();
